@@ -13,7 +13,7 @@ const App = () => {
 
   // Mock data (replace with actual content)
   const PROFILE_DATA = {
-    name: "Emma Rodriguez",
+    name: "Shamanth S R",
     title: "UI/UX Designer",
     bio: "Creative designer passionate about crafting intuitive digital experiences. With 5+ years of experience in user-centered design, I transform complex problems into elegant solutions.",
     profileImage: "/api/placeholder/400/400",
